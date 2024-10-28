@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade 08</string>
+    <string name="codigo">Código do Ingresso</string>
+    <string name="valor">Valor do Ingresso</string>
+    <string name="taxa_conveniencia">Taxa de Conveniência</string>
+    <string name="comprar">Comprar</string>
+    <string name="detalhes_compra">Detalhes da Compra</string>
+    <string name="codigo_label">Código: </string>
+    <string name="valor_label">Valor: </string>
+    <string name="taxa_label">Taxa de Conveniência: </string>
+    <string name="valor_final_label">Valor Final: </string>
+    <string name="voltar">Voltar</string>
+</resources>
